@@ -32,7 +32,7 @@ def main1(pass_check):
         print(
             f"{pass_check} was found {get_count} times... , Try with another Password")
     else:
-        print(f"{pass_check} NOT found,  Carry on!")
+        print(f"{pass_check} NOT found,  Carry on")
 
 
 if __name__ == "__main__":

@@ -1,2 +1,2 @@
 # Password-Checker
-Here you can chech that, if your password ever been HACKED
+Here you can check that, if your password ever been HACKED
